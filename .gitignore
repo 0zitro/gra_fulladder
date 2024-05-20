@@ -1,0 +1,6 @@
+*
+!.gitignore
+!Makefile
+!main.cpp
+!sc_main.cpp
+!fadder.hpp
