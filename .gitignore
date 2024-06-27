@@ -1,6 +1,5 @@
-*
 !.gitignore
 !Makefile
-!main.cpp
-!sc_main.cpp
-!fadder.hpp
+!CMakeLists.txt
+bin/
+build/
