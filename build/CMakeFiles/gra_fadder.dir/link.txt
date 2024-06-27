@@ -1,0 +1,1 @@
+/usr/sbin/c++ CMakeFiles/gra_fadder.dir/src/sc_main.cpp.o -o /home/zitro/Files/Projects/SystemC/gra24cdafadder-practice-ge92zot/bin/gra_fadder  -lsystemc
